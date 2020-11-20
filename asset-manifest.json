@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/github.io/sopt_27th_web_4th/static/css/main.aa5245d6.chunk.css",
-    "main.js": "/github.io/sopt_27th_web_4th/static/js/main.e947aeb4.chunk.js",
-    "main.js.map": "/github.io/sopt_27th_web_4th/static/js/main.e947aeb4.chunk.js.map",
-    "runtime-main.js": "/github.io/sopt_27th_web_4th/static/js/runtime-main.95cad11f.js",
-    "runtime-main.js.map": "/github.io/sopt_27th_web_4th/static/js/runtime-main.95cad11f.js.map",
-    "static/js/2.06090538.chunk.js": "/github.io/sopt_27th_web_4th/static/js/2.06090538.chunk.js",
-    "static/js/2.06090538.chunk.js.map": "/github.io/sopt_27th_web_4th/static/js/2.06090538.chunk.js.map",
-    "static/js/3.f784b306.chunk.js": "/github.io/sopt_27th_web_4th/static/js/3.f784b306.chunk.js",
-    "static/js/3.f784b306.chunk.js.map": "/github.io/sopt_27th_web_4th/static/js/3.f784b306.chunk.js.map",
-    "index.html": "/github.io/sopt_27th_web_4th/index.html",
-    "static/css/main.aa5245d6.chunk.css.map": "/github.io/sopt_27th_web_4th/static/css/main.aa5245d6.chunk.css.map",
-    "static/js/2.06090538.chunk.js.LICENSE.txt": "/github.io/sopt_27th_web_4th/static/js/2.06090538.chunk.js.LICENSE.txt",
-    "static/media/mdi_dehaze.c4ccb44f.svg": "/github.io/sopt_27th_web_4th/static/media/mdi_dehaze.c4ccb44f.svg"
+    "main.css": "/github.io/sopt_27th_web_4th_seminar/static/css/main.aa5245d6.chunk.css",
+    "main.js": "/github.io/sopt_27th_web_4th_seminar/static/js/main.e947aeb4.chunk.js",
+    "main.js.map": "/github.io/sopt_27th_web_4th_seminar/static/js/main.e947aeb4.chunk.js.map",
+    "runtime-main.js": "/github.io/sopt_27th_web_4th_seminar/static/js/runtime-main.27a57078.js",
+    "runtime-main.js.map": "/github.io/sopt_27th_web_4th_seminar/static/js/runtime-main.27a57078.js.map",
+    "static/js/2.06090538.chunk.js": "/github.io/sopt_27th_web_4th_seminar/static/js/2.06090538.chunk.js",
+    "static/js/2.06090538.chunk.js.map": "/github.io/sopt_27th_web_4th_seminar/static/js/2.06090538.chunk.js.map",
+    "static/js/3.f784b306.chunk.js": "/github.io/sopt_27th_web_4th_seminar/static/js/3.f784b306.chunk.js",
+    "static/js/3.f784b306.chunk.js.map": "/github.io/sopt_27th_web_4th_seminar/static/js/3.f784b306.chunk.js.map",
+    "index.html": "/github.io/sopt_27th_web_4th_seminar/index.html",
+    "static/css/main.aa5245d6.chunk.css.map": "/github.io/sopt_27th_web_4th_seminar/static/css/main.aa5245d6.chunk.css.map",
+    "static/js/2.06090538.chunk.js.LICENSE.txt": "/github.io/sopt_27th_web_4th_seminar/static/js/2.06090538.chunk.js.LICENSE.txt",
+    "static/media/mdi_dehaze.c4ccb44f.svg": "/github.io/sopt_27th_web_4th_seminar/static/media/mdi_dehaze.c4ccb44f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.95cad11f.js",
+    "static/js/runtime-main.27a57078.js",
     "static/js/2.06090538.chunk.js",
     "static/css/main.aa5245d6.chunk.css",
     "static/js/main.e947aeb4.chunk.js"
