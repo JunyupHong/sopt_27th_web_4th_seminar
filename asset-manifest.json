@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.aa5245d6.chunk.css",
-    "main.js": "./static/js/main.e947aeb4.chunk.js",
-    "main.js.map": "./static/js/main.e947aeb4.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.52b5347d.js",
-    "runtime-main.js.map": "./static/js/runtime-main.52b5347d.js.map",
-    "static/js/2.06090538.chunk.js": "./static/js/2.06090538.chunk.js",
-    "static/js/2.06090538.chunk.js.map": "./static/js/2.06090538.chunk.js.map",
-    "static/js/3.f784b306.chunk.js": "./static/js/3.f784b306.chunk.js",
-    "static/js/3.f784b306.chunk.js.map": "./static/js/3.f784b306.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.aa5245d6.chunk.css.map": "./static/css/main.aa5245d6.chunk.css.map",
-    "static/js/2.06090538.chunk.js.LICENSE.txt": "./static/js/2.06090538.chunk.js.LICENSE.txt",
-    "static/media/mdi_dehaze.c4ccb44f.svg": "./static/media/mdi_dehaze.c4ccb44f.svg"
+    "main.css": "./sopt_27th_web_4th_seminar/static/css/main.aa5245d6.chunk.css",
+    "main.js": "./sopt_27th_web_4th_seminar/static/js/main.e947aeb4.chunk.js",
+    "main.js.map": "./sopt_27th_web_4th_seminar/static/js/main.e947aeb4.chunk.js.map",
+    "runtime-main.js": "./sopt_27th_web_4th_seminar/static/js/runtime-main.afdbc443.js",
+    "runtime-main.js.map": "./sopt_27th_web_4th_seminar/static/js/runtime-main.afdbc443.js.map",
+    "static/js/2.06090538.chunk.js": "./sopt_27th_web_4th_seminar/static/js/2.06090538.chunk.js",
+    "static/js/2.06090538.chunk.js.map": "./sopt_27th_web_4th_seminar/static/js/2.06090538.chunk.js.map",
+    "static/js/3.f784b306.chunk.js": "./sopt_27th_web_4th_seminar/static/js/3.f784b306.chunk.js",
+    "static/js/3.f784b306.chunk.js.map": "./sopt_27th_web_4th_seminar/static/js/3.f784b306.chunk.js.map",
+    "index.html": "./sopt_27th_web_4th_seminar/index.html",
+    "static/css/main.aa5245d6.chunk.css.map": "./sopt_27th_web_4th_seminar/static/css/main.aa5245d6.chunk.css.map",
+    "static/js/2.06090538.chunk.js.LICENSE.txt": "./sopt_27th_web_4th_seminar/static/js/2.06090538.chunk.js.LICENSE.txt",
+    "static/media/mdi_dehaze.c4ccb44f.svg": "./sopt_27th_web_4th_seminar/static/media/mdi_dehaze.c4ccb44f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.52b5347d.js",
+    "static/js/runtime-main.afdbc443.js",
     "static/js/2.06090538.chunk.js",
     "static/css/main.aa5245d6.chunk.css",
     "static/js/main.e947aeb4.chunk.js"
